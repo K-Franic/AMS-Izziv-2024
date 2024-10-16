@@ -1,0 +1,5 @@
+"venv/" 
+"*.dcm" 
+"*obj" 
+"*.pdf" 
+"*.obj" 
